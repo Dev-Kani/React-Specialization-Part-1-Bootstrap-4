@@ -44,3 +44,15 @@ body {
   border-bottom: 1px solid #ddd;
   padding: 10px;
 }
+
+.card:hover {
+  cursor: pointer;
+}
+
+.card-header {
+  width: 1108px;
+}
+
+.fa-sign-in {
+  cursor: pointer;
+}
